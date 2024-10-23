@@ -2,6 +2,10 @@
 
 HOLAAAAAAA ! Welcome to my repository for the Introduction to Data Science Specialization from Coursera. This repository includes materials, projects, and notes from the various courses I completed as part of this specialization.
 
+**Please note** that this specialization was taken as part of the [**Professional Data Science Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/K1SNLMXKJRA6).
+
+
+
 ## Table of Contents
 1. [Specialization Overview](#specialization-overview)
    - [Want to know if this Specialization is right for you?](#want-to-know-if-this-specialization-is-right-for-you)
@@ -37,6 +41,7 @@ Upon completion of the specialization, you will receive a certificate that valid
 - **Certificate Title:** Introduction to Data Science
 - **Issuer:** IBM
 - **Platform:** Coursera
+- **Language**: English (and more)
 - **Duration:** Approximately 1 month (self-paced)
 - **Type:** Specialization Certificate
 - **Skills Covered:** Data Science, Python, SQL, Data Science methodology, Big Data Concepts, and more.
@@ -91,5 +96,5 @@ This specialization helped me build a solid foundation in data science, and I am
 ## Contact
 Feel free to reach out if you have any questions:
 
-Email: [Your Email]  
-LinkedIn: [Your LinkedIn Profile]
+Email: aa.elmahraoui@gmail.com  
+LinkedIn: Amal El Mahraoui
