@@ -67,6 +67,7 @@ You can view my certificates for the individual courses and the overall speciali
 - [Certificate for Course 3: Data Science Methodology](https://www.coursera.org/learn/data-science-methodology/home/week/1)
 - [Certificate for Course 4: Databases and SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/ONN9JM0FJXBC)
 - [Specialization Certificate: Introduction to Data Science](https://www.coursera.org/account/accomplishments/specialization/64BNDOBVPEG3)
+  
 
 ---
 
