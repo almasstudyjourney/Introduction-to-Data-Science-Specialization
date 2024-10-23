@@ -8,11 +8,10 @@ HOLAAAAAAA ! Welcome to my repository for the Introduction to Data Science Speci
    - [What You Need to Know Before Starting](#what-you-need-to-know-before-starting)
    - [Upon Completion](#upon-completion)
 2. [Course Breakdown](#course-breakdown)
-3. [Quizzes and Assignments Breakdown](#Quizzes_and_Assignments_Breakdown)
+3. [Quizzes and Assignments Breakdown](#Quizzes-and-Assignments-Breakdown)
 4. [Repository Structure](#repository-structure)
-5. [Key Projects](#key-projects)
-6. [Conclusion](#conclusion)
-7. [Contact](#contact)
+5. [Conclusion](#conclusion)
+6. [Contact](#contact)
 
 ## Specialization Overview
 This specialization includes four courses that cover the essential aspects of data science, from foundational knowledge to practical applications.
@@ -57,18 +56,15 @@ Upon completion of the specialization, you will receive a certificate that valid
 
 You can view my certificates for the individual courses and the overall specialization here:
 
-- [Certificate for Course 1: What is Data Science?](#https://www.coursera.org/account/accomplishments/verify/K1SNLMXKJRA6)
-- [Certificate for Course 2: Tools for Data Science](#https://www.coursera.org/account/accomplishments/verify/Q4ALY75TBU51)
-- [Certificate for Course 3: Data Science Methodology](#https://www.coursera.org/learn/data-science-methodology/home/week/1)
-- [Certificate for Course 4: Databases and SQL for Data Science](#https://www.coursera.org/account/accomplishments/verify/ONN9JM0FJXBC)
-- [Specialization Certificate: Introduction to Data Science](#https://www.coursera.org/account/accomplishments/specialization/64BNDOBVPEG3)
+- [Certificate for Course 1: What is Data Science?](https://www.coursera.org/account/accomplishments/verify/K1SNLMXKJRA6)
+- [Certificate for Course 2: Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/Q4ALY75TBU51)
+- [Certificate for Course 3: Data Science Methodology](https://www.coursera.org/learn/data-science-methodology/home/week/1)
+- [Certificate for Course 4: Databases and SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/ONN9JM0FJXBC)
+- [Specialization Certificate: Introduction to Data Science](https://www.coursera.org/account/accomplishments/specialization/64BNDOBVPEG3)
 
 ---
 
-## Key Projects
-- **Project 1:** Data analysis project using Python and Jupyter Notebook.
-- **Project 2:** SQL database management project demonstrating advanced SQL queries.
-- **Project 3:** Data mining case study applying the CRISP-DM methodology.
+
 
 ### Quizzes and Assignments Breakdown
 
