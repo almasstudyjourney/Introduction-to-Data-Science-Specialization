@@ -1,4 +1,5 @@
 # Introduction-to-Data-Science-Specialization
+![Description of the image](https://camo.githubusercontent.com/116c2ccd069529c9fdca3ee1911ed22191c7b424123ada99e71cc73d5c95f81f/68747470733a2f2f686f77746f6c6561726e6d616368696e656c6561726e696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30342f636f7572736572615f6d616368696e655f6c6561726e696e675f69626d2e706e673f7261773d74727565)
 
 HOLAAAAAAA ! Welcome to my repository for the Introduction to Data Science Specialization from Coursera. This repository includes materials, projects, and notes from the various courses I completed as part of this specialization.
 
