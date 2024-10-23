@@ -8,10 +8,11 @@ HOLAAAAAAA ! Welcome to my repository for the Introduction to Data Science Speci
    - [What You Need to Know Before Starting](#what-you-need-to-know-before-starting)
    - [Upon Completion](#upon-completion)
 2. [Course Breakdown](#course-breakdown)
-3. [Repository Structure](#repository-structure)
-4. [Key Projects](#key-projects)
-5. [Conclusion](#conclusion)
-6. [Contact](#contact)
+3. [Quizzes and Assignments Breakdown](#Quizzes_and_Assignments_Breakdown)
+4. [Repository Structure](#repository-structure)
+5. [Key Projects](#key-projects)
+6. [Conclusion](#conclusion)
+7. [Contact](#contact)
 
 ## Specialization Overview
 This specialization includes four courses that cover the essential aspects of data science, from foundational knowledge to practical applications.
@@ -68,6 +69,25 @@ You can view my certificates for the individual courses and the overall speciali
 - **Project 1:** Data analysis project using Python and Jupyter Notebook.
 - **Project 2:** SQL database management project demonstrating advanced SQL queries.
 - **Project 3:** Data mining case study applying the CRISP-DM methodology.
+
+### Quizzes and Assignments Breakdown
+
+| **Item**                                     | **Type**            | **Status** | **Due Date**        | **Weight** | **Grade** |
+|----------------------------------------------|---------------------|------------|---------------------|------------|-----------|
+| **Graded Quiz: Defining Data Science**        | Graded Assignment    | Passed     | Aug 21, 11:59 PM +01 | 10%        | 100%      |
+| **Graded Quiz: What Data Scientists Do**      | Graded Assignment    | Passed     | Aug 23, 11:59 PM +01 | 10%        | 100%      |
+| **Graded Quiz: Big Data and Data Mining**     | Graded Assignment    | Passed     | Aug 26, 11:59 PM +01 | 10%        | 100%      |
+| **Graded Quiz: Deep Learning and Machine Learning** | Graded Assignment | Passed     | Aug 28, 11:59 PM +01 | 10%        | 100%      |
+| **Graded Quiz: Data Science Application Domains** | Graded Assignment | Passed     | Aug 30, 11:59 PM +01 | 10%        | 100%      |
+| **Graded Quiz: Careers and Recruiting in Data Science** | Graded Assignment | Passed     | Sep 2, 11:59 PM +01  | 10%        | 100%      |
+| **Quiz Based on Case Study**                  | Graded Assignment    | Passed     | Sep 4, 11:59 PM +01  | 10%        | 100%      |
+| **Final Exam**                                | Graded Assignment    | Passed     | Sep 4, 11:59 PM +01  | 30%        | 100%      |
+
+### Summary of Grades:
+- **Final Grade:** 100%
+- **Status:** Passed all assessments
+  
+
 
 ## Conclusion 
 This specialization helped me build a solid foundation in data science, and I am excited to apply these skills to real-world problems. Feel free to explore the repository and contact me with any questions or feedback.
