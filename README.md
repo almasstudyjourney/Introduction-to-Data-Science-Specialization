@@ -74,21 +74,78 @@ You can view my certificates for the individual courses and the overall speciali
 
 
 ### Quizzes and Assignments Breakdown
+#### Module 1: What is Data Science?
 
-| **Item**                                     | **Type**            | **Status** | **Due Date**        | **Weight** | **Grade** |
-|----------------------------------------------|---------------------|------------|---------------------|------------|-----------|
-| **Graded Quiz: Defining Data Science**        | Graded Assignment    | Passed     | Aug 21, 11:59 PM +01 | 10%        | 100%      |
-| **Graded Quiz: What Data Scientists Do**      | Graded Assignment    | Passed     | Aug 23, 11:59 PM +01 | 10%        | 100%      |
-| **Graded Quiz: Big Data and Data Mining**     | Graded Assignment    | Passed     | Aug 26, 11:59 PM +01 | 10%        | 100%      |
-| **Graded Quiz: Deep Learning and Machine Learning** | Graded Assignment | Passed     | Aug 28, 11:59 PM +01 | 10%        | 100%      |
-| **Graded Quiz: Data Science Application Domains** | Graded Assignment | Passed     | Aug 30, 11:59 PM +01 | 10%        | 100%      |
-| **Graded Quiz: Careers and Recruiting in Data Science** | Graded Assignment | Passed     | Sep 2, 11:59 PM +01  | 10%        | 100%      |
-| **Quiz Based on Case Study**                  | Graded Assignment    | Passed     | Sep 4, 11:59 PM +01  | 10%        | 100%      |
-| **Final Exam**                                | Graded Assignment    | Passed     | Sep 4, 11:59 PM +01  | 30%        | 100%      |
 
-### Summary of Grades:
-- **Final Grade:** 100%
-- **Status:** Passed all assessments
+| Quiz                                       | Status   | Due Date           | Weight | Grade |
+| ------------------------------------------ | -------- | ------------------ | ------ | ----- |
+| Defining Data Science                      | Passed   | Aug 21, 11:59 PM +01 | 10%    | 100%  |
+| What Data Scientists Do                    | Passed   | Aug 23, 11:59 PM +01 | 10%    | 100%  |
+| Big Data and Data Mining                   | Passed   | Aug 26, 11:59 PM +01 | 10%    | 100%  |
+| Deep Learning and Machine Learning         | Passed   | Aug 28, 11:59 PM +01 | 10%    | 100%  |
+| Data Science Application Domains           | Passed   | Aug 30, 11:59 PM +01 | 10%    | 100%  |
+| Careers and Recruiting in Data Science     | Passed   | Sep 2, 11:59 PM +01  | 10%    | 100%  |
+| Case Study Quiz                            | Passed   | Sep 4, 11:59 PM +01  | 10%    | 100%  |
+| Final Exam                                 | Passed   | Sep 4, 11:59 PM +01  | 30%    | 100%  |
+
+---
+
+#### Module 2: Tools for Data Science
+
+
+| Quiz                                       | Status   | Due Date           | Weight | Grade |
+| ------------------------------------------ | -------- | ------------------ | ------ | ----- |
+| Data Science Tools                         | Passed   | Sep 18, 11:59 PM +01 | 10%    | 90%   |
+| Languages                                  | Passed   | Sep 18, 11:59 PM +01 | 10%    | 90%   |
+| Libraries, APIs, Data Sets, Models         | Passed   | Sep 20, 11:59 PM +01 | 10%    | 100%  |
+| Jupyter Notebooks and JupyterLab           | Passed   | Sep 25, 11:59 PM +01 | 10%    | 100%  |
+| RStudio & GitHub                           | Passed   | Sep 30, 11:59 PM +01 | 10%    | 100%  |
+| Peer-graded Assignment                     | Passed   | Oct 3, 11:59 PM +01  | 25%    | 88%   |
+| Final Exam                                 | Passed   | Sep 30, 11:59 PM +01 | 25%    | 100%  |
+
+---
+
+#### Module 3: Data Science Methodology
+
+
+| Quiz                                       | Status   | Due Date           | Weight | Grade |
+| ------------------------------------------ | -------- | ------------------ | ------ | ----- |
+| From Problem to Approach                   | Passed   | Sep 16, 11:59 PM +01 | 10%    | 100%  |
+| From Requirements to Collection            | Passed   | Sep 16, 11:59 PM +01 | 10%    | 80%   |
+| From Understanding to Preparation          | Passed   | Sep 18, 11:59 PM +01 | 10%    | 100%  |
+| From Modeling to Evaluation                | Passed   | Sep 20, 11:59 PM +01 | 10%    | 100%  |
+| From Deployment to Feedback                | Passed   | Sep 20, 11:59 PM +01 | 20%    | 80%   |
+| Peer-reviewed Final Assignment             | Passed   | Sep 23, 11:59 PM +01 | 10%    | 100%  |
+| Final Quiz                                 | Passed   | Sep 23, 11:59 PM +01 | 30%    | 80%   |
+
+---
+
+## Module 4: SQL for Data Science
+
+| Quiz                                       | Status   | Due Date           | Weight | Grade |
+| ------------------------------------------ | -------- | ------------------ | ------ | ----- |
+| Basic SQL                                  | Passed   | Oct 9, 11:59 PM +01  | 10%    | 100%  |
+| Relational DB Concepts and Tables          | Passed   | Oct 11, 11:59 PM +01 | 10%    | 100%  |
+| Refining Your Results                      | Passed   | Oct 14, 11:59 PM +01 | 10%    | 95%   |
+| Functions, Multiple Tables, and Sub-queries| Passed   | Oct 16, 11:59 PM +01 | 10%    | 100%  |
+| Accessing Databases using Python           | Passed   | Oct 18, 11:59 PM +01 | 10%    | 100%  |
+| Assignment                                 | Passed   | Oct 23, 11:59 PM +01 | 15%    | 80%   |
+| Final Exam                                 | Passed   | Oct 23, 11:59 PM +01 | 35%    | 100%  |
+| **Honors Assignments** (Optional)          |          |                    |        |       |
+| Views, Stored Procedures and Transactions  | Passed   | Oct 25, 11:59 PM +01 | --     | 100%  |
+| JOIN Statements                            | Passed   | Oct 28, 11:59 PM +01 | --     | 100%  |
+| Advanced SQL for Data Engineers            | Passed   | Oct 28, 11:59 PM +01 | --     | 70%   |
+
+
+### Summary of Grades
+
+| **Course**                                  | **Grade** | **Status**             |
+|---------------------------------------------|-----------|------------------------|
+| **Course 1: What is Data Science?**         | 100%      | Passed all assessments |
+| **Course 2: Tools for Data Science**        | 95%       | Passed all assessments |
+| **Course 3: Data Science Methodology**      | 88%       | Passed all assessments |
+| **Course 4: SQL for Data Science**          | 96.5%     | Passed all assessments |
+
   
 
 
